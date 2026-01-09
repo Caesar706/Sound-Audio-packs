@@ -10,7 +10,7 @@
      Heavy Gusts (wind)
      Gentle Gusts (wind)
      Rainfall
-     Thunderstrom
+     Thunderstorm
      WindCharm
 
      Water Related:
