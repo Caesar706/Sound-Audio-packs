@@ -26,7 +26,7 @@
      Running & Walking on Wood 
      Running & Walking through Water
 
-     Foliage Realted:
+     Foliage Related:
      Aggresive Tree Rustling 
      Calm Tree Rustling 
      Rustling Bushes 
@@ -39,7 +39,7 @@
      Lighter opening 
      Lighter closing 
 
-     Animal Realted
+     Animal Related:
      Bird Chirps & Tweets 
      Insects Buzzing 
      Seagull Squacks 
