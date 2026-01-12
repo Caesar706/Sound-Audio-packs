@@ -3,6 +3,7 @@
 
      Each sound was recorded on a Samsung A35 and when needed edited on Audacity.
      Each sound is also formatted as a WAV, as it gives the best sound quality.
+     Each sound is also 48 kHz
 
      Below you can find a list of that have been created, which are on offer:
 
