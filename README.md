@@ -4,7 +4,7 @@
      Each sound was recorded on a Samsung A35 and when needed edited on Audacity.
      Each sound is also formatted as a WAV, as it gives the best sound quality.
 
-     Below you can find a list of that heave been created, which are on offer:
+     Below you can find a list of that have been created, which are on offer:
 
      Weather Related:
      Heavy Gusts (wind)
